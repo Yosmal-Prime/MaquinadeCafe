@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yosmal\\source\\repos\\MaquinaDeCafeTDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50673CE4-82CC-4589-966D-66C444592B00}|..\\MaquinaDeCafeConsola\\MaquinaDeCafeConsola.csproj|c:\\users\\yosmal\\source\\repos\\maquinadecafeconsola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B118329D-2453-411B-89AC-330F5625CD44}|MaquinaDeCafeTDD.csproj|c:\\users\\yosmal\\source\\repos\\maquinadecafetdd\\maquinadecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B118329D-2453-411B-89AC-330F5625CD44}|MaquinaDeCafeTDD.csproj|solutionrelative:maquinadecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFA1451-957E-40FB-A1AF-2654737D87B1}|..\\MaquinaDeCafeTests\\MaquinaDeCafeTests.csproj|c:\\users\\yosmal\\source\\repos\\maquinadecafetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B118329D-2453-411B-89AC-330F5625CD44}|MaquinaDeCafeTDD.csproj|c:\\users\\yosmal\\source\\repos\\maquinadecafetdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B118329D-2453-411B-89AC-330F5625CD44}|MaquinaDeCafeTDD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yosmal\\source\\repos\\MaquinaDeCafeConsola\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MaquinaDeCafeConsola\\Program.cs",
+              "ToolTip": "C:\\Users\\Yosmal\\source\\repos\\MaquinaDeCafeConsola\\Program.cs",
+              "RelativeToolTip": "..\\MaquinaDeCafeConsola\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswD4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:04:20.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Yosmal\\source\\repos\\MaquinaDeCafeTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\MaquinaDeCafeTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Yosmal\\source\\repos\\MaquinaDeCafeTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\MaquinaDeCafeTests\\UnitTest1.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:44:38.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaquinaDeCafe.cs",
+              "DocumentMoniker": "C:\\Users\\Yosmal\\source\\repos\\MaquinaDeCafeTDD\\MaquinaDeCafe.cs",
+              "RelativeDocumentMoniker": "MaquinaDeCafe.cs",
+              "ToolTip": "C:\\Users\\Yosmal\\source\\repos\\MaquinaDeCafeTDD\\MaquinaDeCafe.cs",
+              "RelativeToolTip": "MaquinaDeCafe.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:32:14.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yosmal\\source\\repos\\MaquinaDeCafeTDD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Yosmal\\source\\repos\\MaquinaDeCafeTDD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:56:17.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yosmal\\source\\repos\\Implementaci\u00F3n de Listas Enlazadas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E143EC42-B3FF-485A-A6D3-1D8833E235DA}|Implementaci\u00F3n de Listas Enlazadas.csproj|c:\\users\\yosmal\\source\\repos\\implementaci\u00F3n de listas enlazadas\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E143EC42-B3FF-485A-A6D3-1D8833E235DA}|Implementaci\u00F3n de Listas Enlazadas.csproj|solutionrelative:lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E143EC42-B3FF-485A-A6D3-1D8833E235DA}|Implementaci\u00F3n de Listas Enlazadas.csproj|c:\\users\\yosmal\\source\\repos\\implementaci\u00F3n de listas enlazadas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E143EC42-B3FF-485A-A6D3-1D8833E235DA}|Implementaci\u00F3n de Listas Enlazadas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E143EC42-B3FF-485A-A6D3-1D8833E235DA}|Implementaci\u00F3n de Listas Enlazadas.csproj|c:\\users\\yosmal\\source\\repos\\implementaci\u00F3n de listas enlazadas\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E143EC42-B3FF-485A-A6D3-1D8833E235DA}|Implementaci\u00F3n de Listas Enlazadas.csproj|solutionrelative:nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\Yosmal\\source\\repos\\Implementaci\u00F3n de Listas Enlazadas\\Lista.cs",
+              "RelativeDocumentMoniker": "Lista.cs",
+              "ToolTip": "C:\\Users\\Yosmal\\source\\repos\\Implementaci\u00F3n de Listas Enlazadas\\Lista.cs",
+              "RelativeToolTip": "Lista.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAA8wHMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:15:46.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\Yosmal\\source\\repos\\Implementaci\u00F3n de Listas Enlazadas\\Nodo.cs",
+              "RelativeDocumentMoniker": "Nodo.cs",
+              "ToolTip": "C:\\Users\\Yosmal\\source\\repos\\Implementaci\u00F3n de Listas Enlazadas\\Nodo.cs",
+              "RelativeToolTip": "Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:15:39.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yosmal\\source\\repos\\Implementaci\u00F3n de Listas Enlazadas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Yosmal\\source\\repos\\Implementaci\u00F3n de Listas Enlazadas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:14:49.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

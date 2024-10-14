@@ -1,0 +1,14 @@
+C:\Users\Yosmal\source\repos\MaquinaDeCafeTDD\bin\Debug\net8.0\MaquinaDeCafeTDD.exe
+C:\Users\Yosmal\source\repos\MaquinaDeCafeTDD\bin\Debug\net8.0\MaquinaDeCafeTDD.deps.json
+C:\Users\Yosmal\source\repos\MaquinaDeCafeTDD\bin\Debug\net8.0\MaquinaDeCafeTDD.runtimeconfig.json
+C:\Users\Yosmal\source\repos\MaquinaDeCafeTDD\bin\Debug\net8.0\MaquinaDeCafeTDD.dll
+C:\Users\Yosmal\source\repos\MaquinaDeCafeTDD\bin\Debug\net8.0\MaquinaDeCafeTDD.pdb
+C:\Users\Yosmal\source\repos\MaquinaDeCafeTDD\obj\Debug\net8.0\MaquinaDeCafeTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yosmal\source\repos\MaquinaDeCafeTDD\obj\Debug\net8.0\MaquinaDeCafeTDD.AssemblyInfoInputs.cache
+C:\Users\Yosmal\source\repos\MaquinaDeCafeTDD\obj\Debug\net8.0\MaquinaDeCafeTDD.AssemblyInfo.cs
+C:\Users\Yosmal\source\repos\MaquinaDeCafeTDD\obj\Debug\net8.0\MaquinaDeCafeTDD.csproj.CoreCompileInputs.cache
+C:\Users\Yosmal\source\repos\MaquinaDeCafeTDD\obj\Debug\net8.0\MaquinaDeCafeTDD.dll
+C:\Users\Yosmal\source\repos\MaquinaDeCafeTDD\obj\Debug\net8.0\refint\MaquinaDeCafeTDD.dll
+C:\Users\Yosmal\source\repos\MaquinaDeCafeTDD\obj\Debug\net8.0\MaquinaDeCafeTDD.pdb
+C:\Users\Yosmal\source\repos\MaquinaDeCafeTDD\obj\Debug\net8.0\MaquinaDeCafeTDD.genruntimeconfig.cache
+C:\Users\Yosmal\source\repos\MaquinaDeCafeTDD\obj\Debug\net8.0\ref\MaquinaDeCafeTDD.dll
