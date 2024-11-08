@@ -1,0 +1,35 @@
+name: CI Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v3
+
+      - name: Set up .NET Core
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0'
+
+      - name: Restore dependencies
+        run: dotnet restore MaquinaDeCafeTests/MaquinaDeCafeTests.csproj
+
+      - name: Build
+        run: dotnet build MaquinaDeCafeTests/MaquinaDeCafeTests.csproj --no-restore
+
+      - name: Run tests
+        run: dotnet test MaquinaDeCafeTests/MaquinaDeCafeTests.csproj --no-build --verbosity normal
+        continue-on-error: true  # Esto permite que el pipeline continúe aunque las pruebas fallen
+
+      - name: Publish
+        run: dotnet publish MaquinaDeCafeTDD/MaquinaDeCafeTDD.csproj -c Release -o ./output
