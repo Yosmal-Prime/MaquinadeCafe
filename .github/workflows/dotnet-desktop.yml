@@ -25,7 +25,7 @@ jobs:
         run: dotnet restore MaquinaDeCafeTests/MaquinaDeCafeTests.csproj
 
       - name: Build
-        run: dotnet build MaquinaDeCafeTests/MaquinaDeCafeTests.csproj --no-restore
+        run: dotnet build MaquinaDeCafeTDD/MaquinaDeCafeTDD.csproj --no-restore
 
       - name: Run tests
         run: dotnet test MaquinaDeCafeTests/MaquinaDeCafeTests.csproj --no-build --verbosity normal
