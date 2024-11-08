@@ -1,0 +1,40 @@
+name: CI Pipeline
+
+on:
+  push:
+    branches:
+      - main  # Este pipeline se ejecutará cuando hagas un push a la rama "main"
+  pull_request:
+    branches:
+      - main  # También se ejecutará cuando se abra un PR hacia "main"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # Puedes usar Windows o Mac si prefieres otro entorno
+
+    steps:
+      # 1. Verificar el código
+      - name: Check out code
+        uses: actions/checkout@v3
+
+      # 2. Configurar .NET (en este caso, .NET Core o .NET 5/6)
+      - name: Set up .NET Core
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '7.0'  # Asegúrate de usar la versión correcta
+
+      # 3. Restaurar dependencias (esto instala cualquier paquete NuGet)
+      - name: Restore dependencies
+        run: dotnet restore
+
+      # 4. Construir el proyecto
+      - name: Build
+        run: dotnet build --no-restore
+
+      # 5. Ejecutar las pruebas
+      - name: Run tests
+        run: dotnet test --no-build --verbosity normal
+
+      # 6. (Opcional) Publicar artefactos si es necesario
+      - name: Publish
+        run: dotnet publish -c Release -o ./output
