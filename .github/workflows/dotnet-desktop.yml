@@ -28,7 +28,7 @@ jobs:
         run: dotnet build MaquinaDeCafeTDD/MaquinaDeCafeTDD.csproj --no-restore
 
       - name: Run tests
-        run: dotnet test MaquinaDeCafeTests/MaquinaDeCafeTests.csproj --no-build --verbosity normal
+        run: dotnet test MaquinaDeCafeTDD/MaquinaDeCafeTDD.csproj --no-build --verbosity normal
         continue-on-error: true  # Esto permite que el pipeline continúe aunque las pruebas fallen
 
       # (Opcional) Publicar artefactos si es necesario
